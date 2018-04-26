@@ -1,0 +1,23 @@
+{
+  "name": "js-tiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "geojson-vt": "^2.4.0",
+    "mapbox-gl": "^0.38.0",
+    "mkdirp-promise": "^5.0.1",
+    "vt-pbf": "^2.1.2"
+  },
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
+}
